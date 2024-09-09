@@ -22,13 +22,13 @@ repository               : "IshtaJayakody/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "About Me | Research & Projects"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Dedicated to advancing Artificial Intelligence and Machine Learning. Currently a Teaching Assistant at the Department of Computer Engineering, University of Peradeniya. Focused on research, education, and innovation in AI"
+  location         : "Department of Computer Engineering, Faculty of Engineering, University of Peradeniya"
+  employer         : "University of Peradeniya"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ishtajayakody@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
