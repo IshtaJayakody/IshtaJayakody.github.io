@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Analyzing and predicting volatile market patterns for trading in international markets using a digital twin"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
