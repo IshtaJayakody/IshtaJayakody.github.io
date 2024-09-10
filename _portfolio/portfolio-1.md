@@ -1,6 +1,6 @@
 ---
 title: "Education 1"
-excerpt: "Short description of portfolio item number 1"
+excerpt: "Short description of Education item number 1"
 collection: portfolio
 ---
 
