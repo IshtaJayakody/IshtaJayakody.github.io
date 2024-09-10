@@ -21,7 +21,7 @@ repository               : "IshtaJayakody/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Ishta Jayakody"
   pronouns         : # example: "she/her"  
   bio              : "Dedicated to advancing Artificial Intelligence and Machine Learning. Currently a Teaching Assistant at the Department of Computer Engineering, University of Peradeniya. Focused on research, education, and innovation in AI"
