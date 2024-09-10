@@ -13,6 +13,12 @@ Recent Highlights
 ======
 * __October, 2024:__ Started working as an Teaching Assistant in the Department of Computer Engineering, Faculty of Engineering, University of Peradeniya
 
+* __August, 2024:__ Graduated from the Faculty of Engineering with a 3.50/4.00 GPA
+
+* __August, 2024:__ Presented the final year research project __'Analyzing and Predicting the Volatile Market Patterns for Trading in International Markets Using a Digital Twin'__ at the __58th Asia Pacific Advanced Network Conference 2024__
+
+* __December, 2023:__ Completed a research oriented internship in network intelligence at Paraqum Technologies.
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
