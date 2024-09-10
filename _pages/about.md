@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-With my proactive approach to acquiring knowledge and skills in high-frequency data analytics and manipulation, using data structures and algorithmic techniques in network data flows, I have developed strong expertise in this area. This specialization has led to a position as a research intern at Paraqum Technologies, where a focus on network intelligence has been paramount. Boasting 4 years of intensive scientific research, I have accumulated a notable record of international research publications. Currently serving as a teaching assistant at University of Peradeniya. I strongly believe that DATA can speak about the present and future more accurately than any expert.
+With my proactive approach to acquiring knowledge and skills in high-frequency data analytics and manipulation, using data structures and algorithmic techniques in network data flows, I have developed strong expertise. This specialization has led to a position as a research intern at Paraqum Technologies, where a focus on network intelligence has been paramount. Boasting 3 years of intensive scientific research, I have accumulated a notable record of international research publication in applied machine learning. Currently serving as a teaching assistant at University of Peradeniya. I strongly believe that DATA can speak about the present and future more accurately than any expert.
 
 A data-driven personal website
 ======
